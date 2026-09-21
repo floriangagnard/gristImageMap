@@ -1,8 +1,10 @@
 # Grist Image Map Widget
 
-A modern, interactive custom widget for [Grist](https://www.getgrist.com/) that displays custom text markers, badges, and pins on a background image or floor plan.
+A modern, interactive custom widget for [Grist](https://lasuite.numerique.gouv.fr/produits/grist) that displays custom text markers, badges, and pins on a background image or floor plan.
 
 Supports **uploaded file attachments** directly from Grist, multi-image layers, smooth pan & zoom, pin dragging, and real-time synchronization with your Grist records.
+
+Try it out with GitHub's “Pages” feature: https://floriangagnard.github.io/gristImageMap/
 
 ---
 
